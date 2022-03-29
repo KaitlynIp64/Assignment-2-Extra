@@ -21,3 +21,10 @@
 /home/runner/Assignment-2-Extra/obj/Debug/netcoreapp6.0/main.dll
 /home/runner/Assignment-2-Extra/obj/Debug/netcoreapp6.0/ref/main.dll
 /home/runner/Assignment-2-Extra/obj/Debug/netcoreapp6.0/main.pdb
+/home/runner/Assignment-2-Extra/bin/Debug/netcoreapp6.0/main
+/home/runner/Assignment-2-Extra/bin/Debug/netcoreapp6.0/main.deps.json
+/home/runner/Assignment-2-Extra/bin/Debug/netcoreapp6.0/main.runtimeconfig.json
+/home/runner/Assignment-2-Extra/bin/Debug/netcoreapp6.0/main.dll
+/home/runner/Assignment-2-Extra/bin/Debug/netcoreapp6.0/ref/main.dll
+/home/runner/Assignment-2-Extra/bin/Debug/netcoreapp6.0/main.pdb
+/home/runner/Assignment-2-Extra/obj/Debug/netcoreapp6.0/main.genruntimeconfig.cache

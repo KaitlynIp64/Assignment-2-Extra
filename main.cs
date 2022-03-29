@@ -19,7 +19,7 @@ class Program
         Base = Convert.ToInt32(Console.ReadLine());
         Console.Write("Enter the height: ");
         Height = Convert.ToInt32(Console.ReadLine());
-        Double perimeter = Base + Height + ((Base ** 2 + Height ** 2) ** 0.5);
+        Double perimeter = Base + Height + (Math.Pow((Math.Pow(Base, 2) + Math.Pow(Height, 2)), 0.5));
         Console.WriteLine("");
         Console.Write("Perimeter: " + perimeter.ToString("0.00") + "cm");
         Console.ReadKey();
